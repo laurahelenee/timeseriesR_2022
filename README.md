@@ -1,1 +1,1 @@
-# timeseries_2022
+# Projet économétrie financière - Application sur R
